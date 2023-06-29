@@ -1,4 +1,4 @@
-![White Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/117291953/227160340-ffdb1ea6-1491-4106-9e16-4d861241b9d6.png)
+![Beige Simple Elegant Personal LinkedIn Banner](https://github.com/bahaseline/bahaseline/assets/117291953/328fb22d-9fee-44d7-931a-0d3980ff8af4)
 
 <h1 align="center">Hi 👋, I'm Seline Baha</h1>
 <h3 align="center">A passionate font-end web developer from Greece</h3>
