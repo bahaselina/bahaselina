@@ -1,4 +1,4 @@
-![Screen Shot 2023-12-07 at 19 29 20](https://github.com/bahaseline/bahaseline/assets/117291953/5e1cfc3c-841c-4763-994c-aa5d7d7310be)
+![Screen Shot 2023-12-07 at 19 32 51](https://github.com/bahaseline/bahaseline/assets/117291953/26a286d5-5418-4cec-84f7-764911b3b3af)
 
 <h1 align="center">Hi 👋, I'm Seline Baha</h1>
 <h3 align="center">A passionate font-end web developer from Greece</h3>
