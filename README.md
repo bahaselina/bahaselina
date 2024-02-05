@@ -1,4 +1,4 @@
-![Screen Shot 2023-12-07 at 19 32 51](https://github.com/bahaseline/bahaseline/assets/117291953/26a286d5-5418-4cec-84f7-764911b3b3af)
+![Gray And Black  Simple Personal LinkedIn Banner](https://github.com/bahaseline/bahaseline/assets/117291953/773f1a54-fc55-4c7f-a9c4-1ba678a365ca)
 
 <h1 align="center">Hi 👋, I'm Seline Baha</h1>
 <h3 align="center">A passionate font-end web developer from Greece</h3>
