@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Seline Baha</h1>
 <h3 align="center">A passionate Full-Stack Developer from Greece</h3>
 
-- 📫 How to reach me **bahaselina1603@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/seline-baha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/seline-baha-a15197237" height="30" width="40" /></a>
