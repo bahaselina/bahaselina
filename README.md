@@ -1,4 +1,4 @@
-![Gray And Black  Simple Personal LinkedIn Banner](https://github.com/bahaseline/bahaseline/assets/117291953/773f1a54-fc55-4c7f-a9c4-1ba678a365ca)
+![Gray And Black  Simple Personal LinkedIn Banner (2)](https://github.com/bahaseline/bahaseline/assets/117291953/49ce1523-3f7c-4ea6-97c4-16ea60690395)
 
 <h1 align="center">Hi 👋, I'm Seline Baha</h1>
 <h3 align="center">A passionate Full-Stack Developer from Greece</h3>
